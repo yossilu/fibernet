@@ -1,5 +1,10 @@
 # Getting Your TODO List!
 
+User for test:
+username: test
+password: 123456$T
+- user creation possible
+
 This project was used both bootstrap and material-UI,
 It contains a TODO list which can be created only by a user, but viewed by all.
 for now the realtions of users/lists are many to one, typically it should be a list per user(or many to many depends on the demand).
